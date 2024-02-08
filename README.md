@@ -1,3 +1,5 @@
+### About the Project
+
 The project aims to evaluate the core functionalities of Wise mobile app. 
 
 There are two files in the project:
